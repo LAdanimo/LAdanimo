@@ -11,7 +11,7 @@
 - [**Todos Tus To-Dos**](https://todos-tus-todos.vercel.app/)
   - The first website I made using **Next.js**, ¡Todos Tus To-Dos! is a **full-stack** task management app
   - **Featuring:** JSX, TSX, PostgreSQL, Prisma, Axios, Zod, Tailwind, daisyUI
-  - **Live Demo:** [todos-tus-todos.vercel.app](https://todos-tus-todos.vercel.app/)
+  - **Live Demo:** [https://todos-tus-todos.vercel.app](https://todos-tus-todos.vercel.app/)
   - **Repository:** [https://github.com/LAdanimo/joy-of-coding-internship-solo-project](https://github.com/LAdanimo/joy-of-coding-internship-solo-project)
 
 ---
