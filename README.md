@@ -5,7 +5,7 @@
 - [**Millennial Trivia**](https://millennial-trivia.vercel.app/)
   - The first single-page web app I made using **React** with **Vite**
   - **Featuring:** JSX, TSX, Bootstrap
-  - **Live Demo:** [https://millennial-trivia.vercel.app/](https://millennial-trivia.vercel.app/)
+  - **Live Demo:** [https://millennial-trivia.vercel.app](https://millennial-trivia.vercel.app/)
   - **Repository:** [https://github.com/LAdanimo/react-trivia](https://github.com/LAdanimo/react-trivia)
 
 - [**Todos Tus To-Dos**](https://todos-tus-todos.vercel.app/)
