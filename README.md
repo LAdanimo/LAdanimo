@@ -31,7 +31,7 @@
   - 🧑‍🏫 SQL (MySQL, PostgreSQL) 
   - 🧑‍🏫 Prisma ORM 
   - 🧑‍🏫 Postman 
-- Web, Front-End:
+- Web, Front-End & Full-Stack:
   - 🧠 HTML5 _(since 1998 [HTML3])_ 
   - 🧠 CSS3 _(since 2014)_ 
   - 🧑‍🏫 JavaScript 
