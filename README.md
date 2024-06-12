@@ -3,7 +3,7 @@
 ## 🖼️ Portfolio Pieces 🌐
 
 - [**Millennial Trivia**](https://millennial-trivia.vercel.app/)
-  - The first single-page web app I made using **React** with **Vite**, Millennial Trivia is a trivia game about the turn of the 21st century
+  - The first single-page web app I made using **React** with **Vite**, this is a trivia game about the turn of the 21st century
   - **Featuring:** JSX, TSX, Bootstrap
   - **Live Demo:** [https://millennial-trivia.vercel.app](https://millennial-trivia.vercel.app/)
   - **Repository:** [https://github.com/LAdanimo/react-trivia](https://github.com/LAdanimo/react-trivia)
